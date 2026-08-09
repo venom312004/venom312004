@@ -78,7 +78,5 @@ Text-based emotion classifier using Logistic Regression + TF-IDF, achieving ~86%
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=venom312004&icon=0&color=0" /></a>
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

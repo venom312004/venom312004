@@ -67,6 +67,8 @@ Text-based emotion classifier using Logistic Regression + TF-IDF, achieving ~86%
 
 **Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%230C4A6E.svg?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Deployment & Tools**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -74,9 +76,6 @@ Text-based emotion classifier using Logistic Regression + TF-IDF, achieving ~86%
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

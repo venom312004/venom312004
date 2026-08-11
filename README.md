@@ -26,22 +26,22 @@
 **🎥 [AI Video Assistant](https://github.com/venom312004/AI-video-assistant)**
 Dual-engine transcription app (OpenAI Whisper + Sarvam AI for Hinglish) with RAG-based Q&A over video content, built using LangChain + Mistral AI + ChromaDB. Deployed on Streamlit Cloud.
 
-**🤖 Multi-Agent AI Research System**
+**🤖 [Multi-Agent AI Research System](https://github.com/venom312004/MultiAgent-AI-Research-System.git)**
 A 4-agent pipeline (Search → Scraper → Writer → Critic) built with LangChain LCEL and Mistral AI, automating end-to-end research report generation.
 
-**📄 PDF RAG Assistant**
+**📄 [PDF RAG Assistant](https://github.com/venom312004/PDF-RAG-Assistant.git)**
 Document Q&A system using ChromaDB, Mistral AI embeddings, and MultiQueryRetriever for accurate, context-aware retrieval over PDFs.
 
-**🌆 City Intelligence System**
+**🌆 [City Intelligence System](https://github.com/venom312004/city-intelligence-agent.git)**
 LangGraph-based agent integrating weather & news tools with human-in-the-loop approval for reliable, controllable decision-making.
 
-**📉 Customer Churn Prediction**
+**📉 [Customer Churn Prediction](https://github.com/venom312004/Customer-Churn-Prediction.git)**
 XGBoost-based churn model achieving 86% ROC-AUC, deployed on Streamlit Cloud with full feature engineering and evaluation pipeline.
 
-**🎬 Movie Recommendation System**
+**🎬 [Movie Recommendation System](https://github.com/venom312004/movie-recommendation-system.git)**
 Content-based recommender using TF-IDF + cosine similarity, with a FastAPI backend and Streamlit frontend, deployed on Render.
 
-**😊 Emotion Detection (NLP)**
+**😊 [Emotion Detection (NLP](https://github.com/venom312004/emotion-detector-nlp.git)**
 Text-based emotion classifier using Logistic Regression + TF-IDF, achieving ~86% accuracy, deployed on Streamlit Cloud.
 
 ---
